@@ -24,6 +24,9 @@ The lab simulates the responsibilities of a Security Operations Center (SOC) Ana
 
 ## Architecture
 
+![lab architecture](architecture/honeynet-architecture.png).
+
+
 ---
 
 ## Technologies Used
